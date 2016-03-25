@@ -1,0 +1,12 @@
+vyos-vyos-replace (1.0.1) UNRELEASED; urgency=medium
+
+  * Added dependency on grub2, until we find a better place for it.
+
+ --  <daniil@baturin.org>  Mon, 01 Feb 2016 07:02:52 -0500
+
+vyos-vyos-replace (1.0) unstable; urgency=low
+
+  * Created the metapackage
+
+ -- Daniil Baturin <daniil@baturin.org>  Tue, 26 Jan 2016 16:48:12 -0500
+
